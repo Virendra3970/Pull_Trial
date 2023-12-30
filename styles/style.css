@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color:black;
+font-family: 'Roboto Slab', serif;
+}
+p{
+    background-image: url(/assets/download.jpg);
+background-repeat: repeat;
+-webkit-text-fill-color:transparent;
+-webkit-background-clip:text;
+font-size: 130px;
+font-weight: 900;
+text-align: center;
+margin-top:140px;
+}
